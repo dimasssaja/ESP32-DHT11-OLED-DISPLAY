@@ -2,11 +2,11 @@
 Repositori ini membahas tentang pembuatan dan penerapan sensor dht 11 ke layar OLED untuk menampilkan suhu disekitar secara berkala
 
 # SKEMA RANGKAIAN PROJEK
-# ![SKEMA RANGKAIAN](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain)
+# ![SKEMA RANGKAIAN](https://github.com/dimasssaja/DHT-11-OLED-DISPLAY-/blob/main/DATA%20GAMBAR/ESP%2032%20OLED%20DHT11.jpeg?raw=true)
 <table>
 <tr>
 <td>
-  Tools & Etc
+  ##Tools & Etc
   - ESP 32 WROOM CP2102
   - SENSOR DHT 11
   - OLED 0.96
@@ -17,7 +17,7 @@ Repositori ini membahas tentang pembuatan dan penerapan sensor dht 11 ke layar O
 </tr>
 <tr>
 <td>
-  # HOW TO SETUP
+  ## HOW TO SETUP
   1. CONNECT YOUR JUMPER CABLE ON BREADBOARD AND MAKE SURE THE PINS ARE CONNECTED TO EACH OTHER
   2. SUPPLY POWER TO YOUR ESP 32
   3. CODE ESP32 PROGRAM
@@ -28,12 +28,12 @@ Repositori ini membahas tentang pembuatan dan penerapan sensor dht 11 ke layar O
 </table>
 
 
-## DOKUMENTASI
-# ![DOKUMENTASI 1](https://github.com/dimasssaja/UAS-PEMBELAJARAN-MESIN/blob/main/Screenshot%20Data%20Gambar/Screenshot%202024-02-01%20000610.png?raw=true)
+## DOKUMENTASI 1
+# ![DOKUMENTASI 1](https://github.com/dimasssaja/DHT-11-OLED-DISPLAY-/blob/main/DATA%20GAMBAR/ESP%2032%20OLED%20DHT11.jpeg?raw=true)
 
 
-## Elbow Method
-# ![DOKUMENTASI 2](https://github.com/dimasssaja/UAS-PEMBELAJARAN-MESIN/blob/main/Screenshot%20Data%20Gambar/Screenshot%202024-02-01%20000620.png?raw=true)
+## DOKUMENTASI 2
+# ![DOKUMENTASI 2](https://github.com/dimasssaja/DHT-11-OLED-DISPLAY-/blob/main/DATA%20GAMBAR/ESP%2032%20OLED%20DHT%2011%20(2).jpeg?raw=true)
 
 ## Built with 
 - Arduino IDE using C++ Programming Language
